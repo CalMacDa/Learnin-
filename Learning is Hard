@@ -4,7 +4,7 @@
 
 <h1>SUCK IT NORTH KOREA!</h1>
 <p>Death, Destruction, Diahrea, North and South Korea</p>
-<button type="button" onclick="<button type=button" onclick="alert('South Korea Would Whoop North Korea's Ass (JK))'">HawHawHawHawHawHaw</button>
+<button type="button" onclick="<button type=button" onclick="alert('South Korea Would Whoop North Korea's Ass (JK)')">HawHawHawHawHawHaw</button>
 <p id="demo"></p>
 
 <script>
