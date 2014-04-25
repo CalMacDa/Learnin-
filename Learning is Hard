@@ -2,14 +2,14 @@
 <html>
 <body>
 
-<h1>My First JavaScript</h1>
+<h1>SUCK IT NORTH KOREA!</h1>
 <p>Click the Date button to display the current day, date, and time.</p>
-<button type="button" onclick="myFunction()">Date</button>
+<button type="button" onclick="myFunction()">HawHawHawHawHawHaw</button>
 <p id="demo"></p>
 
 <script>
 function myFunction() {
-    document.getElementById("demo").innerHTML = Date();
+document.body.innerHTML="HAHAHAHHAHAHAHAHHAHHAHAHAHAHHAHAHAAHHAHA";
 }
 </script>
 
